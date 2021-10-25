@@ -1,3 +1,9 @@
+I'm a self thought C# Developer. I prioritize in RE and Security.
+
+Mostly doing private projects now, so learning C++ on the side.
+
+I do more than just RE and Security also, ask me anything!
+
 [![Bed's GitHub stats](https://github-readme-stats.vercel.app/api?username=BedTheGod)]
 
 <!--
