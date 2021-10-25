@@ -4,7 +4,7 @@ Mostly doing private projects now, so learning C++ on the side.
 
 I do more than just RE and Security also, ask me anything!
 
-[![Bed's GitHub stats](https://github-readme-stats.vercel.app/api?username=BedTheGod)]
+[![Bed's GitHub stats](https://github-readme-stats.vercel.app/api?username=BedTheGod&show_icons=true&theme=tokyonight)]
 
 <!--
 **BedTheGod/BedTheGod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
