@@ -1,4 +1,4 @@
-I'm a self thought C# / C++ Developer. I used to prioritize in RE and Security for .NET.
+I'm a self tought C# / C++ Developer. I used to prioritize in RE and Security for .NET.
 
 Mostly doing private projects now, game reversing in c++ and such.
 
